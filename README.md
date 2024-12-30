@@ -1,9 +1,10 @@
 # Simple MicroSaaS Tool
+
 Project Description
 
 Simple MicroSaaS Tool is a lightweight task management application. It allows users to add, view, and delete tasks in a minimalistic interface, focusing on ease of use for personal or small team task management.
----
 
+---
 Setup Instructions
 
 1. Clone the Repository:
@@ -36,6 +37,7 @@ View the current list of tasks.
 Delete tasks from the list.
 
 Responsive layout for seamless use on any device.
+
 ---
 
 Technologies Used
@@ -45,8 +47,8 @@ Python (Flask Framework)
 HTML, CSS (Frontend)
 
 Bootstrap (For responsiveness)
----
 
+---
 Future Enhancements
 
 Add user authentication for personalized task lists.
